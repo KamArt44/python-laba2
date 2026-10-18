@@ -1,0 +1,5 @@
+{"timestamp":"2026-10-13T10:00:00Z","level":"INFO","source":"api","message":"Сервер запущен"}
+{"timestamp":"2086-10-13T10:05:00Z","level":"ERROR","source":"api","message":"Нет соединения"}
+{"timestamp":"2026-10-13T10:07:00Z","level":"WARNING","source":"datebase","message":"Медленный ответ"}
+{"timestamp":"2090-10-13T10:10:00Z","level":"CRITICAL","source":"database","message":"База недоступна"}
+{"timestamp":"2026-11-13T10:12:00Z","level":"ERROR","source":"api","message":"Ошибка запроса"}

@@ -1,0 +1,4 @@
+timestamp,level,source,message
+2026-10-13T10:00:00Z,INFO,api,До ошибки
+nodate,INFO,api,Ошибочная запись
+2026-10-13T10:05:00Z,ERROR,database,После ошибки

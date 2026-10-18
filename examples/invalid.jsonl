@@ -1,0 +1,3 @@
+{"timestamp":"2026-10-13T10:00:00Z","level":"INFO","source":"api","message":"До ошибки"}
+Flud
+{"timestamp":"2026-10-13T10:05:00Z","level":"ERROR","source":"database","message":"После ошибки"}

@@ -1,0 +1,6 @@
+timestamp,level,source,message
+2026-10-13T09:00:00Z,INFO,api,Сервер запущен
+2026-10-13T10:05:00Z,ERROR,database,Нет соединения
+2026-10-13T10:06:00Z,WARNING,api,Медленный ответ
+2026-10-13T10:10:00Z,CRITICAL,database,База недоступна
+2026-10-13T10:12:00Z,ERROR,api,Ошибка запроса
