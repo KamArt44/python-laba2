@@ -1,6 +1,5 @@
 
 
-from streamstats.errors import StreamStatsError
 from streamstats.models import LEVELS, parse_timestamp
 from streamstats.parsers import read_files
 

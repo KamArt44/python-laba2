@@ -17,10 +17,8 @@ def parse_timestamp(text):
 
         return timestamp.astimezone(UTC)
 
-    except (ValueError, OverflowError) as error:
-        raise InvalidTimestampError(
-            f"Неверная временная метка: {text}"
-        ) from error
+    except (ValueError, OverflowError):
+        raise InvalidTimestampError ("Неверное время")
 
 
 def validate_event(event):
